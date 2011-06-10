@@ -4,3 +4,6 @@
 [submodule "bundle/DBGp-client"]
 	path = bundle/DBGp-client
 	url = git@github.com:peterlozano/DBGp-client.git
+[submodule "bundle/gundo"]
+	path = bundle/gundo
+	url = http://github.com/sjl/gundo.vim.git
