@@ -13,3 +13,6 @@
 [submodule "drupalvim"]
 	path = drupalvim
 	url = git@github.com:peterlozano/drupalvim.git
+[submodule "bundle/tabular"]
+	path = bundle/tabular
+	url = git://github.com/godlygeek/tabular.git
